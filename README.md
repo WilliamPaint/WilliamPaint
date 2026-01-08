@@ -1,12 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm William Kwame Paintsil</h1>
+<h3 align="center">Business Business & Data Analyst with experience in applied analytics and reporting</h3>
 
-🔭 I’m currently working on an economic and community impact consulting project with Coyotes Business Consulting
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=williampaint&label=Profile%20views&color=0e75b6&style=flat" alt="williampaint" /> </p>
 
-⚡ I’m currently learning Tableau, NLP
+- 🌱 I’m currently learning **Tableau & NLP**
 
-👯 I’m looking to collaborate on Data analysis and business analytics projects involving **real-world datasets**, particularly those focused on; Economic impact analysis, Operational efficiency, Pricing, Text and Regression analysis, Workforce and institutional analytics
+- 👨‍💻 All of my projects are available at [tinyurl.com/yvxp8xuw](tinyurl.com/yvxp8xuw)
 
-📫 How to reach me: 📧 Email: williampaintsil568@gmail.com  🔗 LinkedIn: https://www.linkedin.com/in/williampaintsil  
+- 📫 How to reach me **williampaintsil568@gmail.com**
 
- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_willipee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_willipee" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williampaint&show_icons=true&locale=en&layout=compact" alt="williampaint" /></p>
