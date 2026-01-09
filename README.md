@@ -25,8 +25,9 @@
 <h3 align="left">Open to Opportunities</h3>
 
 <p>
-  Final-year MS Business Analytics student actively seeking full-time Seeking full-time roles in business analytics, data analytics,
-  consulting, or strategy where data drives decision-making.
+  Final-year MS Business Analytics student graduating in May 2026, seeking full-time roles in business analytics, data analytics, 
+  consulting, or strategy where data-driven insights support decision-making.
+
 </p>
 
 <!-- Profile Views -->
