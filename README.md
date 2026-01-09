@@ -22,6 +22,12 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<h3 align="left">Open to Opportunities</h3>
+
+<p>
+  Interested in full-time roles in business analytics, data analytics,
+  consulting, or strategy where data drives decision-making.
+</p>
 
 <!-- Profile Views -->
 <p align="center">
@@ -40,6 +46,26 @@
   <li>Perform exploratory data analysis (EDA), feature selection, and regression modeling.</li>
   <li>Translate analysis into dashboards and executive-ready narratives.</li>
   <li>Quantified $15M+ impact through consulting-led analytics initiatives.</li>
+</ul>
+
+<h3 align="left">Featured Projects</h3>
+
+<ul>
+  <li>
+    <strong>Airbnb NYC Pricing & Optimization (R)</strong> —
+    Descriptive, predictive, and prescriptive analytics using machine learning and spatial optimization.
+    <a href="https://github.com/WilliamPaint/New-York-Listing-2024-Airbnb-Operational-Analytics">View repo</a>
+  </li>
+  <li>
+    <strong>Employee Attrition Prediction (Python)</strong> —
+    Machine learning classification to identify drivers of employee turnover and support HR strategy.
+    <a href="https://github.com/WilliamPaint/Employee-Attrition-Prediction-Machine-Learning">View repo</a>
+  </li>
+  <li>
+    <strong>NFL 4th Down Decision Analysis (SAS)</strong> —
+    Logistic regression modeling of coaching risk behavior using play-by-play data.
+    <a href="https://github.com/WilliamPaint/NFL-4th-Down-Decisions-Analysis-Report">View repo</a>
+  </li>
 </ul>
 
 <hr/>
