@@ -1,7 +1,10 @@
 <h1 align="center">William Kwame Paintsil</h1>
+
 <h3 align="center">
-  <strong>Business & Consulting Analyst — Coyote Business Consulting<br/>
-  University of South Dakota</strong>
+  <strong>
+    Business & Consulting Analyst — Coyote Business Consulting<br/>
+    University of South Dakota
+  </strong>
 </h3>
 
 <!-- Social Buttons -->
@@ -22,62 +25,70 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=williampaint&label=Profile%20views&color=0e75b6&style=flat" alt="williampaint" />
+  <img
+    src="https://komarev.com/ghpvc/?username=williampaint&label=Profile%20views&color=0e75b6&style=flat"
+    alt="williampaint"
+  />
 </p>
 
----
+<hr/>
 
 <h3 align="left">About Me</h3>
 
 <ul>
-  <li>Ingest, clean, and integrate large datasets using Python, R, SAS and SQL.</li>
-  <li>Perform EDA, feature selection, and regression modeling.</li>
-  <li>Translate analysis into dashboards and executive narratives.</li>
-  <li>Quantified $15M+ impact through consulting-led analytics.</li>
+  <li>Ingest, clean, and integrate large datasets using Python, R, SAS, and SQL.</li>
+  <li>Perform exploratory data analysis (EDA), feature selection, and regression modeling.</li>
+  <li>Translate analysis into dashboards and executive-ready narratives.</li>
+  <li>Quantified $15M+ impact through consulting-led analytics initiatives.</li>
 </ul>
 
+<hr/>
 
-
----
-
-<h3 align="left">Current Focus & How To Connect</h3>
+<h3 align="left">Current Focus &amp; How To Connect</h3>
 
 <ul>
-  <li>🌱 Currently learning <strong>Tableau & Natural Language Processing (NLP)</strong></li>
+  <li>🌱 Currently learning <strong>Tableau &amp; Natural Language Processing (NLP)</strong></li>
   <li>👨‍💻 Projects available via my <a href="https://tinyurl.com/yvxp8xuw">portfolio</a></li>
   <li>📫 Reach me at <strong>williampaintsil568@gmail.com</strong></li>
 </ul>
 
----
+<hr/>
 
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="Python" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+         alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+         alt="SQLite" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+         alt="Scikit-learn" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+         alt="Seaborn" width="40" height="40"/>
   </a>
 </p>
 
----
+<hr/>
 
 <!-- GitHub Stats -->
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=williampaint&show_icons=true&locale=en&layout=compact"
-    alt="williampaint" />
+    alt="williampaint"
+  />
 </p>
