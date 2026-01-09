@@ -1,13 +1,26 @@
 <h1 align="center">William Kwame Paintsil</h1>
-<h3 align="center"><strong>Consulting Analyst — Coyotes Business Consulting, University of South Dakota</strong></h3>
+<h3 align="center">
+  <strong>Consulting Analyst — Coyote Business Consulting<br/>
+  University of South Dakota</strong>
+</h3>
 
+<!-- Social Buttons -->
 <p align="center">
-  <a href="https://tinyurl.com/yvxp8xuw">View Portfolio</a> •
-  <a href="https://github.com/WilliamPaint">View GitHub</a> •
-  <a href="https://www.linkedin.com/in/williampaintsil">Connect on LinkedIn</a> •
-  <a href="https://instagram.com/_willipee">Follow on Instagram</a>
+  <a href="https://www.linkedin.com/in/williampaintsil">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_willipee">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://tinyurl.com/yvxp8xuw">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/WilliamPaint">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=williampaint&label=Profile%20views&color=0e75b6&style=flat" alt="williampaint" />
 </p>
@@ -18,9 +31,9 @@
 
 <ul>
   <li>Analyze economic, operational, and workforce datasets to support applied analytics initiatives.</li>
-  <li>Apply Python and SQL to clean, integrate, and validate complex, multi-source data.</li>
+  <li>Apply Python and SQL to clean, integrate, and validate complex multi-source datasets.</li>
   <li>Build regression models and conduct exploratory data analysis to identify key drivers and trends.</li>
-  <li>Deliver clear, decision-focused reporting and visualizations for technical and non-technical stakeholders.</li>
+  <li>Deliver clear, decision-focused insights and visualizations for both technical and non-technical stakeholders.</li>
 </ul>
 
 ---
@@ -34,6 +47,7 @@
 ---
 
 <h3 align="left">Languages and Tools</h3>
+
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -57,8 +71,9 @@
 
 ---
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=williampaint&show_icons=true&locale=en&layout=compact"
-       alt="williampaint" />
+<!-- GitHub Stats -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=williampaint&show_icons=true&locale=en&layout=compact"
+    alt="williampaint" />
 </p>
