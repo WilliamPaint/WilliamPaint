@@ -25,7 +25,7 @@
 <h3 align="left">Open to Opportunities</h3>
 
 <p>
-  Interested in full-time roles in business analytics, data analytics,
+  Final-year MS Business Analytics student actively seeking full-time Seeking full-time roles in business analytics, data analytics,
   consulting, or strategy where data drives decision-making.
 </p>
 
