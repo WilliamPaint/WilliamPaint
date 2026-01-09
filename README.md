@@ -30,11 +30,13 @@
 <h3 align="left">About Me</h3>
 
 <ul>
-  <li>Analyze economic, operational, and workforce datasets to support applied analytics initiatives.</li>
-  <li>Apply Python and SQL to clean, integrate, and validate complex multi-source datasets.</li>
-  <li>Build regression models and conduct exploratory data analysis to identify key drivers and trends.</li>
-  <li>Deliver clear, decision-focused insights and visualizations for both technical and non-technical stakeholders.</li>
+  <li>Ingest, clean, and integrate large datasets using Python, R, SAS and SQL.</li>
+  <li>Perform EDA, feature selection, and regression modeling.</li>
+  <li>Translate analysis into dashboards and executive narratives.</li>
+  <li>Quantified $15M+ impact through consulting-led analytics.</li>
 </ul>
+
+
 
 ---
 
