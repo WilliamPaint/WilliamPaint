@@ -1,6 +1,6 @@
 <h1 align="center">William Kwame Paintsil</h1>
 <h3 align="center">
-  <strong>Consulting Analyst — Coyote Business Consulting<br/>
+  <strong>Business & Consulting Analyst — Coyote Business Consulting<br/>
   University of South Dakota</strong>
 </h3>
 
