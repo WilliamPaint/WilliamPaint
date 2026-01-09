@@ -40,6 +40,8 @@
 
 ---
 
+<h3 align="left">Current Focus & How To Connect</h3>
+
 <ul>
   <li>🌱 Currently learning <strong>Tableau & Natural Language Processing (NLP)</strong></li>
   <li>👨‍💻 Projects available via my <a href="https://tinyurl.com/yvxp8xuw">portfolio</a></li>
