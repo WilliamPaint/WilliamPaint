@@ -44,6 +44,8 @@
 <ul>
   <li>Ingest, clean, and integrate large datasets using Python, R, SAS, and SQL.</li>
   <li>Perform exploratory data analysis (EDA), feature selection, and regression modeling.</li>
+  <li>Apply machine learning models (classification, regression, anomaly detection) and introductory generative AI concepts to real-world datasets.</li>
+  <li>Structure analysis workflows for reproducibility using GitHub and clear documentation.</li>
   <li>Translate analysis into dashboards and executive-ready narratives.</li>
   <li>Quantified $15M+ impact through consulting-led analytics initiatives.</li>
 </ul>
